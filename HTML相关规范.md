@@ -5,7 +5,7 @@
 ## 通用约定
 
 * 自闭合（self-closing）标签，无需闭合 ( 例如： img input br hr 等 )
-* 可选的闭合标签（closing tag），需闭合 ( 例如：</li> 或 </body> )
+* 可选的闭合标签(closing tag),需闭合(例如:`</li>`或 `</body>`)
 * 尽量减少标签数量
 
 ## Class 与 ID
